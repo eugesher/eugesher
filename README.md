@@ -1,16 +1,14 @@
-### Hi there 👋
+### Привет! 👋 Меня зовут Евгений.
 
-<!--
-**eugesher/eugesher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 В настоящий момент, работаю над учебным проектом Mesto  
+  https://github.com/eugesher/react-mesto-auth
+  
+* 🌱 Хочу максимально отточить навык разработки на React.js и углубить свои познания в JavaScript. А так же научиться писать чистый, читаемый код.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мой стек:
+- React
+- JavaScript
+- CSS, CSS modules
+- Ubuntu
+- Webstorm
+- Figma
