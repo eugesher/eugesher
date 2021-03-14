@@ -12,3 +12,9 @@
 - Ubuntu
 - Webstorm
 - Figma
+
+Мои проекты:
+- Mesto (React) https://github.com/eugesher/react-mesto-auth
+- Mesto (JavaScript) https://github.com/eugesher/mesto
+- Russian Travel https://github.com/eugesher/russian-travel
+- How To Learn https://github.com/eugesher/how-to-learn
