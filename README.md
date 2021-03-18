@@ -18,3 +18,6 @@
 - Mesto (JavaScript) https://github.com/eugesher/mesto
 - Russian Travel https://github.com/eugesher/russian-travel
 - How To Learn https://github.com/eugesher/how-to-learn
+
+Контакты:
+- Telegram @eugesher
