@@ -9,6 +9,9 @@
 - React
 - JavaScript
 - CSS, CSS modules
+- Node.js
+- express
+- mongoose
 - Ubuntu
 - Webstorm
 - Figma
